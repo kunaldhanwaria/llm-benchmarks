@@ -1,5 +1,7 @@
 # 🔍 Evaluate Gemma 3 on Colab
 
+A simple guide to evaluate Gemma 3B (or any other language model) using the LM Evaluation Harness on Google Colab.
+
 ## ⚙️ Set Up Environment
 
 1. Install the required packages (`torch`, `transformers`, `accelerate`, `bitsandbytes`, `lm-evaluation-harness`).
